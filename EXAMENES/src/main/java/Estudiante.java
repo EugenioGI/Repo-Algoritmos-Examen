@@ -3,7 +3,7 @@ public class Estudiante
     private String nombre,curso;
     private float calificacion;
 
-    public Estudiante(String nombre, String Curso, float calificacion)
+    public Estudiante(String nombre, String curso, float calificacion)
     {
         this.nombre = nombre;
         this.curso = curso;
